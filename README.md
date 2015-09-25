@@ -1,7 +1,7 @@
 BlockAdBlock (v3.2.0)
 ===========
 
-([FuckAdBlock](https://github.com/sitexw/FuckAdBlock) same project but with a more convenient name)
+([FuckAdBlock](https://github.com/sitexw/FuckAdBlock) same project but with a different name)
 
 You can detect nasty ad blockers.
 Online example: http://sitexw.fr/blockadblock/
